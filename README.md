@@ -1,5 +1,5 @@
 # Demo for react redux
-## youtubu
+## youtube
 https://www.youtube.com/watch?v=2kL28Qyw9-0&t=355s
 
 # Getting Started with Create React App
